@@ -1,0 +1,7 @@
+- name: Katalon Report Uploader
+  uses: katalon-studio/report-uploader@v0.0.8
+  env:
+    PASSWORD: 283ae0cd-7ab8-414f-b1fb-96c5440fd7d7
+    PROJECT_ID: 769172
+    TYPE: katalon
+    REPORT_PATH: Refresh
